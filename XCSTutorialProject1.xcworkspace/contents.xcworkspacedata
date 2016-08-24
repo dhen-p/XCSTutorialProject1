@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:UITest.swift">
+   </FileRef>
+   <FileRef
       location = "group:XCSTutorialProject1.xcodeproj">
    </FileRef>
    <FileRef
